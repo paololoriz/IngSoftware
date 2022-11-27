@@ -1,0 +1,21 @@
+.listContainer{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom right, #E3F0FF, #FAFCFF);
+    height: 95vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.list{
+    background-color: #ffffff;
+    border-radius: 20px;
+    box-shadow: 0px 25px 40px #1687d933;
+    overflow: auto;
+}
+
+.stackSearchBar{
+    margin-top: 10px;
+    height: 65px;
+}
